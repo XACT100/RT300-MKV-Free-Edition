@@ -9,6 +9,7 @@
 <li><strong>免费版本固件仅保留基础功能用于体验电源硬件性能。</strong></li>
 <li><strong>完整版固件需要联系本工作室付费获取（固件与单片机配套出售）。</strong></li>
 <li><strong>请使用官方烧录工具，切勿使用第三方烧录软件。</strong></li>
+<li><strong>免费版本与收费版本的固件只适用于开源的硬件（EPA-INBM32P2245PR）,请勿刷入售卖版本的电源板，否则可能会造成模块烧毁以及其他不可预期的故障。</strong></li>
 </ul>
 <h2 id="免费版本包含以下功能"><span class="prefix"></span><span class="content">免费版本包含以下功能</span><span class="suffix"></span></h2>
 <ul>
